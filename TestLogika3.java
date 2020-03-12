@@ -3,8 +3,6 @@ public class ArrayDemo1{
    public static void main(String[] args){
 
       String[] mahasiswa;
-
-
       mahasiswa = new String[4];
       mahasiswa[1] = "9"; 
       mahasiswa[2] = "9009";

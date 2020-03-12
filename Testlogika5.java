@@ -15,7 +15,7 @@ char[] chars = text.toCharArray();
 Arrays.sort(chars);
 String urut = new String(chars);
 System.out.print("hasil pengurutan: "+urut );
-System.out.println()""
+System.out.println()""dfjhsdjf
         
     }
 }
